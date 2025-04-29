@@ -1,1 +1,2 @@
 # Assignment3
+This project includes two data structures: MyHashTable, a hash table with separate chaining for collision resolution, and BST (Binary Search Tree), a binary search tree with iterative operations and sorted traversal. The MyHashTable uses linked lists for collisions and a custom hashCode() function. Core operations are put(K key, V value), get(K key), and remove(K key), with a performance test inserting 10,000 entries. The BST supports insertion, deletion, and search iteratively, with in-order traversal and efficient size tracking.
